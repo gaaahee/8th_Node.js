@@ -237,3 +237,12 @@ https://github.com/gaaahee/8th_node.js_practice/tree/feature/chapter-06
 ![alt text](image02.png)
 ![alt text](image03.png)
 ![alt text](image04.png)
+
+2. 특정 가게의 미션 목록 조회
+![alt text](image05.png)
+
+3. 내가 진행 중인 미션 목록 조회
+MissionLog 테이블에 임의로 데이터 추가
+![alt text](image06.png)
+도전 중인 미션(status = inProgress)만 조회가 된다!
+![alt text](image07.png)
